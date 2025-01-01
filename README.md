@@ -11,3 +11,5 @@ A 🔍 machine learning project designed to predict Uber ride details such as �
 - 🚀 Enhancing customer experience  
 
 Stay ahead with smarter ride-sharing predictions! 🚖📡
+
+![uber fare predictions](https://github.com/user-attachments/assets/bb226296-c42a-47c0-8bc6-c159b28d6500)
